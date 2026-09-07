@@ -1,0 +1,1 @@
+A proposta é um sistema onde o usuário envia qualquer arquivo "bruto" (planilhas desconfiguradas, PDFs de notas, exportações CSV sem formatação ou conexões diretas via banco de dados SQL) e o backend aplica algoritmos de limpeza (data wrangling) para estruturar os dados e emitir um relatório executivo pronto no Exce
